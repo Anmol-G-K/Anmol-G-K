@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlubWhtcWI1NmtiMnNnODFkOTFnYzJzdXlvaGVpZ2dyMGE5aDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuSwZxEElRca7WAXI3/giphy.gif" alt="GIF" width="700"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJscWY3cHpzdzVvcjlwMWMwdzhlcHZpbGhsZ3Brd3c4dmM1bWJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7qenFtAhuD7zkC8IZl/giphy.gif" alt="GIF" width="700"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anmol</h1>
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [github-Anmol-G-K](https://github.com/Anmol-G-K)
 
-- 📫 How to reach me **[drop a mail](cb.en.u4eee23103@cb.students.amrita.edu)**
+- 📫 How to reach me **[drop amail](cb.en.u4eee23103@cb.students.amrita.edu)**
 
 - ⚡ Fun fact **I can make a cookie disappear <details><summary></summary> nom nom</details>**
 
