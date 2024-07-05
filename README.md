@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlubWhtcWI1NmtiMnNnODFkOTFnYzJzdXlvaGVpZ2dyMGE5aDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuSwZxEElRca7WAXI3/giphy.gif" alt="GIF" width="1280"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTlubWhtcWI1NmtiMnNnODFkOTFnYzJzdXlvaGVpZ2dyMGE5aDlmeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZuSwZxEElRca7WAXI3/giphy.gif" alt="GIF" width="700"/>
 </div>
 
 <h1 align="center">Hi 👋, I'm Anmol</h1>
