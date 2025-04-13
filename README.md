@@ -9,12 +9,13 @@
 
 I'm a **student deeply immersed in the worlds of mathematics and physics**, with a special fascination for circuits as part of my **Electrical and Electronics Engineering (EEE)** studies. My journey is fueled by a love for subjects like:
 
-- **Linear Algebra**
-- **Calculus**
+- **Power Electronics**
+- **Embedded Systems and IoT**
+- **CMOS and VLSI Design**
 - **All things mathematical**
 
 Currently, I'm focused on:
-- Enhancing my understanding of **EEE fundamentals**
+- Enhancing my understanding of **Circuit Design and Analysis Methods**
 - Sharpening my **programming skills**
 
 ---
@@ -22,7 +23,7 @@ Currently, I'm focused on:
 ### Beyond Academics 🌟
 Outside of academics, I find immense joy in **photography**. Through my lens, I capture moments that speak volumes—each image telling its own unique story. 
 
-> Photography isn't just a hobby; it's my way of expressing creativity and connecting with the world around me.
+> Photography isn't just a hobby; it's my way of expressing creativity and connecting with the world around me. As they say i can freeze time 📸
 </h5>
 
 ---
