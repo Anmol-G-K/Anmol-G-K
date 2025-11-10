@@ -71,10 +71,18 @@ Is it the code or the circuit? ...Yes
 
 <strong>Programming:</strong><br>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
+  </a>
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  </a>
 </div>
 <br><br>
 
@@ -86,51 +94,76 @@ Is it the code or the circuit? ...Yes
 
 <strong>Electronics / Embedded:</strong><br>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <!-- Arduino -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
-  <!-- RaspberryPi -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/>
-  <!-- ARM -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1920px-Arm_logo_2017.svg.png?20250328131951" alt="ARM" width="80"/>
-  <!-- STM -->
-  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/STMicroelectronics_2020_logo.svg/1920px-STMicroelectronics_2020_logo.svg.png?20231118090809" alt="STMicroelectronics / STM32" width="100"/>
-  <!-- Microchip PIC -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Microchip_logo.svg/1920px-Microchip_logo.svg.png?20241231080400" alt="Microchip / PIC" width="100"/>
+  <a href="https://www.arduino.cc/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" width="45" height="45"/>
+  </a>
+  <a href="https://www.raspberrypi.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" width="45" height="45"/>
+  </a>
+  <a href="https://www.arm.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Arm_logo_2017.svg/1920px-Arm_logo_2017.svg.png" alt="ARM" width="80"/>
+  </a>
+  <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/07/STMicroelectronics_2020_logo.svg/1920px-STMicroelectronics_2020_logo.svg.png" alt="STMicroelectronics / STM32" width="100"/>
+  </a>
+  <a href="https://www.microchip.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Microchip_logo.svg/1920px-Microchip_logo.svg.png" alt="Microchip / PIC" width="100"/>
+  </a>
 </div>
 <br><br>
 
+
 <strong>Simulation / Electrical Tools:</strong><br>
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <!-- LTSpice -->
-  <img src="https://img.shields.io/badge/LTSpice-%23A4373A?style=for-the-badge&logo=analogdevices&logoColor=white" alt="LTSpice"/>
-  <!-- QSpice -->
-  <img src="https://img.shields.io/badge/QSpice-%234169E1?style=for-the-badge&logo=qorvo&logoColor=white" alt="QSpice"/>
-  <!-- Proteus -->
-  <img src="https://img.shields.io/badge/Proteus-%23008080?style=for-the-badge&logo=windows&logoColor=white" alt="Proteus"/>
-  <!-- MATLAB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
-  <!-- KiCad -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="100"/>
-  <!-- Altium -->
-  <img src="https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg" alt="Altium" width="90"/>
+  <a href="https://www.analog.com/en/resources/design-tools-and-calculators/ltspice-simulator.html" target="_blank">
+    <img src="https://img.shields.io/badge/LTSpice-%23A4373A?style=for-the-badge&logo=analogdevices&logoColor=white" alt="LTSpice"/>
+  </a>
+  <a href="https://www.qorvo.com/design-hub/qspice" target="_blank">
+    <img src="https://img.shields.io/badge/QSpice-%234169E1?style=for-the-badge&logo=qorvo&logoColor=white" alt="QSpice"/>
+  </a>
+  <a href="https://www.labcenter.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Proteus-%23008080?style=for-the-badge&logo=windows&logoColor=white" alt="Proteus"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
+  </a>
+  <a href="https://www.kicad.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="100"/>
+  </a>
+  <a href="https://www.altium.com/" target="_blank">
+    <img src="https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg" alt="Altium" width="90"/>
+  </a>
 </div>
 <br><br>
 
 <strong>AI / ML:</strong><br>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="45" height="45"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="45" height="45"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="45" height="45"/>
+  </a>
 </div>
 <br><br>
 
 <strong>Design:</strong><br>
 <div style="display: flex; gap: 10px; align-items: center;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1024px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png?20200616120028" alt="Lightroom Classic" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="45" height="45"/>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
+  </a>
+  <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1024px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" alt="Lightroom Classic" width="45" height="45"/>
+  </a>
+  <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="45" height="45"/>
+  </a>
 </div>
 <br><br>
+
 
 ---
 
