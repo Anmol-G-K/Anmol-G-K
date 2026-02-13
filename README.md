@@ -36,11 +36,12 @@ Outside of academics, I find immense joy in **photography**. Through my lens, I 
 
 <img align="right" alt="Coder" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
 
-- 🔭 Currently working on [Gesture Controlled Robotic Arm](https://github.com/Robo-Linkers/Gesture-controlled-robotic-arm)
+- 🔭 Currently working on [NUCLEO-G474RE-PowerElectronics-Guide](https://github.com/Anmol-G-K/NUCLEO-G474RE-PowerElectronics-Guide)
 - 🤝 Looking for help with [Electronic Component Classifier](https://github.com/Vanguard-s/Electronic-Component-Sorter)
 
-- 📫 How to reach me: **booleanconnoisseurs@gmail.com**
+- 📫 How to reach me: **cb.en.u4eee23103@cb.students.amrita.edu**
 - 👨‍💻 Projects: **[GitHub](https://github.com/Anmol-G-K)**
+- Website: [Might be a short circuit](https://anmol-g-k.github.io/anmol/)
 - ⚡Uhhhh Found the problem. It was a floating pin. -_-
 <!-- 
 - ⚡Smoke Optional ;) 
@@ -53,7 +54,7 @@ Is it the code or the circuit? ...Yes
 <div align="center">
 <a href="https://www.linkedin.com/in/anmolkrish" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://github.com/Anmol-G-K" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="mailto:booleanconnoisseurs@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="mailto:cb.en.u4eee23103@cb.students.amrita.edu"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 ---
@@ -128,7 +129,7 @@ Is it the code or the circuit? ...Yes
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="MATLAB" width="45" height="45"/>
   </a>
   <a href="https://www.kicad.org/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/KiCad-Logo.svg/2560px-KiCad-Logo.svg.png" alt="KiCad" width="100"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/KiCad-Logo.svg" alt="KiCad" width="100"/>
   </a>
   <a href="https://www.altium.com/" target="_blank">
     <img src="https://cdn.files.altium.com/sites/default/files/2024-12/AD-logo-horizontal-BLK.svg" alt="Altium" width="90"/>
@@ -156,22 +157,13 @@ Is it the code or the circuit? ...Yes
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" alt="Photoshop" width="45" height="45"/>
   </a>
   <a href="https://www.adobe.com/products/photoshop-lightroom-classic.html" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg/1024px-Adobe_Photoshop_Lightroom_Classic_CC_icon.svg.png" alt="Lightroom Classic" width="45" height="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Adobe_Photoshop_Lightroom_Classic_CC_icon.svg" alt="Lightroom Classic" width="45" height="45"/>
   </a>
   <a href="https://www.adobe.com/products/illustrator.html" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-original.svg" alt="Illustrator" width="45" height="45"/>
   </a>
 </div>
 <br><br>
-
-
----
-
-<h3 align="center">GitHub Stats 📊</h3>
-<p align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-G-K&theme=2077" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-G-K&layout=compact&theme=highcontrast" width="48%" />
-</p>
 
 ---
 
@@ -182,3 +174,12 @@ Is it the code or the circuit? ...Yes
 
 <p align="center">⚡ Powered by coffee, circuits, and curiosity ⚡</p>
 
+
+<!-- ---
+
+<h3 align="center">GitHub Stats 📊</h3>
+<p align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-G-K&theme=2077" width="48%" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-G-K&layout=compact&theme=highcontrast" width="48%" /> -->
+<p>
+ <!-- -->
