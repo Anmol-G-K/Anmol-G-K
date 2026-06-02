@@ -1,6 +1,10 @@
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJscWY3cHpzdzVvcjlwMWMwdzhlcHZpbGhsZ3Brd3c4dmM1bWJjNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/7qenFtAhuD7zkC8IZl/giphy.gif" alt="GIF" width="700"/>
-</div>
+</div> -->
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/main/ASSETS/output-1.5.gif" alt="Banner-GIF" width="100%">
+</p>
 
 <h1 align="center">Hi 👋, I'm Anmol Krishhh</h1>
 <!-- <p align="center">
