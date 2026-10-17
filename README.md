@@ -177,15 +177,19 @@ Is it the code or the circuit? ...Yes
 <h3 align="left">A · 3D Contribution Calendar <sub>(yoshi389111/github-profile-3d-contrib)</sub></h3>
 <img width="100%" alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
+<!-- B · Contribution Snake (Platane/snk) — disabled for now; delete this comment block to re-enable
 <h3 align="left">B · Contribution Snake <sub>(Platane/snk)</sub></h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake.svg"/>
   <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake.svg"/>
 </picture>
+-->
 
+<!-- D · Isometric Commit Calendar (lowlighter/metrics) — disabled for now; delete this comment block to re-enable
 <h3 align="left">D · Isometric Commit Calendar <sub>(lowlighter/metrics)</sub></h3>
 <img width="100%" alt="isometric commit calendar" src="./metrics.plugin.isocalendar.fullyear.svg"/>
+-->
 
 ---
 
