@@ -168,22 +168,37 @@ Is it the code or the circuit? ...Yes
   </a>
 </div>
 <br><br>
+</p>
 
 ---
 
-<h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Anmol-G-K&theme=cobalt"/>
+<h2 align="left">⚡Contribution Visuals:</h2>
+
+<h3 align="left">A · 3D Contribution Calendar <sub>(yoshi389111/github-profile-3d-contrib)</sub></h3>
+<img width="100%" alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
+
+<h3 align="left">B · Contribution Snake <sub>(Platane/snk)</sub></h3>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake.svg"/>
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/Anmol-G-K/Anmol-G-K/output/snake.svg"/>
+</picture>
+
+<h3 align="left">D · Isometric Commit Calendar <sub>(lowlighter/metrics)</sub></h3>
+<img width="100%" alt="isometric commit calendar" src="./metrics.plugin.isocalendar.fullyear.svg"/>
 
 ---
 
 <p align="center">⚡ Powered by coffee, circuits, and curiosity ⚡</p>
 
 
-<!-- ---
+<!--
+---
 
 <h3 align="center">GitHub Stats 📊</h3>
 <p align="center">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Anmol-G-K&theme=2077" width="48%" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-G-K&layout=compact&theme=highcontrast" width="48%" /> -->
-<p>
- <!-- -->
+</p>
+-->
+
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anmol-G-K&layout=compact&theme=highcontrast" width="48%" /> -->
