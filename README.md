@@ -172,9 +172,7 @@ Is it the code or the circuit? ...Yes
 
 ---
 
-<h2 align="left">⚡Contribution Visuals:</h2>
-
-<h3 align="left">A · 3D Contribution Calendar <sub>(yoshi389111/github-profile-3d-contrib)</sub></h3>
+<h2 align="left">⚡Activity Graph:</h2>
 <img width="100%" alt="3D contribution calendar" src="./profile-3d-contrib/profile-night-rainbow.svg"/>
 
 <!-- B · Contribution Snake (Platane/snk) — disabled for now; delete this comment block to re-enable
